@@ -1,0 +1,7 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 7be79e0b-9640-e9af-dc71-96833289c279
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 10

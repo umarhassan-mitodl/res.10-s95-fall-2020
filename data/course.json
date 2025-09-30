@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Science",
+      "Physics"
+    ]
+  ],
+  "legacy_uid": "9f26e833-ffc8-522e-bd10-2f65d4d1ca4e",
+  "instructors": {
+    "content": [
+      "fbc0e219-bf98-ad34-1799-8ec0484b2200",
+      "9d8e2582-f6d1-a0e1-261a-553fa8899d6b",
+      "92e88cb0-152b-c137-76de-599455dfd243"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2a92f492-0617-00fe-d74d-bbe31b8ab94a",
+    "website": "res-10-s95-physics-of-covid-19-transmission-fall-2020"
+  },
+  "course_title": "Physics of COVID-19 Transmission",
+  "hide_download": true,
+  "course_description": "This resource is a collection of videos taught using a LightBoard, a specialized glass that creates a transparent white board. It teaches scientific principles to quantitatively assess the risk of airborne transmission of COVID-19 in indoor spaces based on factors such as the occupancy, time, room geometry, mask use, ventilation, air filtration, humidity, respiratory activities, etc., as well as how these factors interact. This collection is suitable for learners with some undergraduate-level training in STEM, although some videos may also be accessible to the general public. Graduate students and professionals can watch optional videos with more challenging mathematics. A full MITx course with problems and bonus content is available for free on [MITx Online](https://courses.mitxonline.mit.edu/learn/course/course-v1:MITxT+10.S95x+3T2022/home).",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.10-S95",
+  "course_image_thumbnail": {
+    "content": "39499dc8-0443-6a5b-d289-2a56d8e54f1a",
+    "website": "res-10-s95-physics-of-covid-19-transmission-fall-2020"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "site_uid": "6e9e8b2e-2076-4822-a7d6-1f85a29f616f",
+  "site_short_id": "res.10-s95-fall-2020",
+  "site_url_path": "courses/res-10-s95-physics-of-covid-19-transmission-fall-2020",
+  "title": "Course Metadata"
+}
